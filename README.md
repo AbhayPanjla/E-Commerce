@@ -2,6 +2,9 @@
 
 ## Overview
 
+
+#E-Commerce 
+
 The Ecommerce App is a comprehensive platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js) following the MVC (Model-View-Controller) pattern. This project offers full authentication for both admin and user roles, enabling a wide range of functionalities for managing products, categories, and orders. The application is fully dynamic, responsive, and designed using Bootstrap.
 
 ## Table of Contents
